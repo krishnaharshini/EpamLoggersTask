@@ -1,0 +1,18 @@
+INFO  SiandCi:14 - 1.Calculet Simple Interest 2.Calculate Compound Interest
+INFO  InterestCalci:13 - enter the principle amount
+INFO  InterestCalci:15 - enter time period
+INFO  InterestCalci:17 - enter rate of interest
+INFO  InterestCalci:25 - Simple interest is 0.01
+INFO  ConstructionCost:13 - enter your choice for material to be used
+INFO  ConstructionCost:14 - 1.Standard Materials 2.Above Standard Materials 3.High standard materials 4.High standard materials andAutomated house
+INFO  ConstructionCost:16 - Enter area of house in square feets
+INFO  ConstructionCost:32 - cost for constructing a house is 14400
+INFO  ConstructionCost:13 - enter your choice for material to be used
+INFO  ConstructionCost:14 - 1.Standard Materials 2.Above Standard Materials 3.High standard materials 4.High standard materials andAutomated house
+INFO  ConstructionCost:16 - Enter area of house in square feets
+INFO  ConstructionCost:32 - cost for constructing a house is 3450000
+INFO  SiandCi:14 - 1.Calculet Simple Interest 2.Calculate Compound Interest
+INFO  InterestCalci:13 - enter the principle amount
+INFO  InterestCalci:15 - enter time period
+INFO  InterestCalci:17 - enter rate of interest
+INFO  InterestCalci:25 - Simple interest is 33.12
